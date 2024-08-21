@@ -1,4 +1,4 @@
-https://logic-light-test-adeo6cxv2-yuriyegs-projects.vercel.app/
+https://logic-light-test-9wkkcj7cd-yuriyegs-projects.vercel.app
 Деплой тестового!
 
 Привет! Вы открыли файл с тестовым LogicLike. Это kidstech проект, где мы учим детей 5-12 лет думать. И просто провести время за экраном с пользой.
